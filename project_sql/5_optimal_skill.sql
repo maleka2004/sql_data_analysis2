@@ -34,6 +34,6 @@ skills_demand.demand_count,
 avg_salary
 from skills_demand
 inner join average_salary on skills_demand.skill_id=average_salary.skill_id
-where demand_count> 5
-order by  avg_salary desc, demand_count desc
+where demand_count>10
+order by  avg_salary DESC,demand_count DESC 
 limit 25
