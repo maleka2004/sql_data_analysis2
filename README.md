@@ -174,7 +174,7 @@ Programming & Data Science Tools Have High Value
 
 - **Swift (iOS development), Jupyter, and Pandas (data science tools)** show strong salary potential for developers and analysts.
  
- [high_paying_skills](assets/4)
+ [high_paying_skills](maleka2004/sql_data_analysis2/assets/4.png)
  *Top ten highest paying skills*
 
  ### 5. Most Optimal Skills To Learn
@@ -219,7 +219,7 @@ where demand_count>10
 order by  avg_salary DESC,demand_count DESC 
 limit 25
 ```
-[optimal skills](assets/5)
+[optimal skills](maleka2004/sql_data_analysis2/assets/5.png)
 *Top ten skills based on the highest salary and demand*
 
 Key Insights-
