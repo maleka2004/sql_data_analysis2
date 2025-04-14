@@ -104,7 +104,7 @@ Key insights
 - Azure - 2 mentions
 - AWS - 2 mentions
 
-![skills for top paying roles](assets\2_top_paying_job_skills.png)
+[skills for top paying roles](assets/2_top_paying_job_skills.png)
 *Here's a bar chart showing the top 10 in-demand skills for high-paying data roles, with SQL and Python leading the list*
 
 ### 3. In Demand Skills For Data Analysts
@@ -174,7 +174,7 @@ Programming & Data Science Tools Have High Value
 
 - **Swift (iOS development), Jupyter, and Pandas (data science tools)** show strong salary potential for developers and analysts.
  
- ![high_paying_skills](assets\4)
+ [high_paying_skills](assets/4)
  *Top ten highest paying skills*
 
  ### 5. Most Optimal Skills To Learn
@@ -219,7 +219,7 @@ where demand_count>10
 order by  avg_salary DESC,demand_count DESC 
 limit 25
 ```
-![optimal skills](assets\5)
+[optimal skills](assets/5)
 *Top ten skills based on the highest salary and demand*
 
 Key Insights-
